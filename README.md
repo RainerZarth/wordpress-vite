@@ -31,3 +31,8 @@ and create a lazy-block with lazy-youtube.php content
 
 ## what else
 just add a new page with an lazy-youtube block or text and it will be loaded onto vite frontend
+
+# important:
+wp credentials are bitnami standard:
+user: user
+passwd: bitnami
