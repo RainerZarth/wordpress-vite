@@ -1,0 +1,7 @@
+.main {
+    background-color: var(--color-light);
+    position: absolute;
+    top: 64px;
+    width: 100%;
+    height: fit-content;
+}

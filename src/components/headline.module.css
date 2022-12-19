@@ -1,0 +1,13 @@
+.headline {
+    font-family: var(--font-h);
+}
+
+.h1 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.h2 {
+    font-size: 28px;
+    font-weight: 500;
+}

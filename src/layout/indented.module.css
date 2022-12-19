@@ -1,0 +1,5 @@
+.indented {
+    margin: 0 auto;
+    max-width: var(--max-width);
+    width: calc(100% - (var(--content-margin) * 2));
+}

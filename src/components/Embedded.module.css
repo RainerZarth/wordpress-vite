@@ -1,0 +1,34 @@
+.container {
+    width: calc(100% - (var(--content-margin) * 2));
+    margin: var(--content-margin) auto;
+    max-width: var(--max-width);
+}
+
+.container iframe {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    aspect-ratio: 16/9;
+    border: none;
+}
+
+.disclaimer {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    aspect-ratio: 16/9;
+    border: none;
+    background-color: var(--color-mid);
+}
+
+.disclaimer p {
+    padding: 2em;
+    text-align: center;
+}
+
+.disclaimer button {
+    margin: 1em auto;
+    display: block;
+    background-color: var(--color-main);
+}

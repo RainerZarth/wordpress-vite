@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+}
+
+.container figure {
+    margin: 0;
+}
+
+.container figure img {
+    width: 100%;
+    height: auto;
+}
+
+.container figure iframe {
+    width: 100%;
+    aspect-ratio: 500/281;
+    height: auto;
+}

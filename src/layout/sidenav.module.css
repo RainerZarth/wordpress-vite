@@ -1,0 +1,16 @@
+.sidenav {
+    position: absolute;
+    display: block;
+    top: 64px;
+    left: 0;
+    height: calc(100vh - 64px);
+    width: 50%;
+    z-index: 1000;
+    background-color: var(--color-main);
+    transform: translateX(-100%);
+    transition: all 0.3s ease-out;
+}
+
+.active {
+    transform: translateX(0);
+}
